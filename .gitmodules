@@ -13,3 +13,8 @@
 	url = /lustre03/project/rrg-pbellec/ria-beluga/alias/cneuromod.anat.smriprep
 	datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
 	datalad-url = "ria+file:///lustre03/project/rrg-pbellec/ria-beluga#~cneuromod.anat.smriprep"
+[submodule "sourcedata/movie10"]
+	path = sourcedata/movie10
+	url = /lustre03/project/rrg-pbellec/ria-beluga/alias/cneuromod.movie10.raw
+	datalad-id = 74df9898-c9bb-11e9-85f3-3ea8d101da1a
+	datalad-url = "ria+file:///lustre03/project/rrg-pbellec/ria-beluga#~cneuromod.movie10.raw"
